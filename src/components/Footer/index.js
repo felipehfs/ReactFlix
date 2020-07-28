@@ -1,7 +1,7 @@
 import React from 'react';
 import { FooterBase } from './styles';
 
-function Footer() {
+function Footer(props) {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
